@@ -1,5 +1,4 @@
 # 📄 File QA RAG Chatbot
-# 📄 File QA RAG Chatbot
 
 An end-to-end RAG (Retrieval-Augmented Generation) chatbot that answers questions from uploaded PDFs using LangChain, Groq, FAISS, and Streamlit.
 
