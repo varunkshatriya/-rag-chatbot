@@ -35,4 +35,4 @@ streamlit run app.py
 - README.md — Project documentation
 
 ## 👤 Author
-Siddarth C Kanavi
+Varun F Kshatriya
